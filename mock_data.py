@@ -40,5 +40,5 @@ catalog = [
         "stock": 10,
         "image": "https://media.npr.org/assets/img/2017/04/14/chris_stapleton_cover2_wide-4ef29dfdf13ba912fcb08a43725f9afdb14c4a7b.jpeg?s=1400",
         "category": "Country"
-    }
+    },
 ]
